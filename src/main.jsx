@@ -1,5 +1,11 @@
 import { render } from 'preact'
 import './index.css'
 import { App } from './app.jsx'
+import { HashRouter } from 'react-router-dom'
 
-render(<App />, document.getElementById('app'))
+render(
+  <HashRouter>
+    <App />
+  </HashRouter>,
+  document.getElementById('app')
+)
