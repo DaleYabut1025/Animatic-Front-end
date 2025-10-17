@@ -263,4 +263,4 @@ to {
             0% { transform: translate(0, 0); }
             100% { transform: translate(50px, 50px); }
             }
-        `})]})};function Di(){return f(Vo,{basename:"/Animatic-Front-end",children:f(xo,{children:f(pe,{path:"/",element:f(Si,{}),children:[f(pe,{index:!0,element:f(Ei,{})}),f(pe,{path:"recent-files",element:f(Pi,{})}),f(pe,{path:"*",element:f(Li,{})})]})})})}cn(f(Di,{}),document.getElementById("app"));
+        `})]})};function Di(){return f(xo,{children:f(pe,{path:"/",element:f(Si,{}),children:[f(pe,{index:!0,element:f(Ei,{})}),f(pe,{path:"recent-files",element:f(Pi,{})}),f(pe,{path:"*",element:f(Li,{})})]})})}cn(f(Vo,{basename:"/Animatic-Front-end",children:f(Di,{})}),document.getElementById("app"));
